@@ -3,7 +3,7 @@ import random
 
 window = tk.Tk()
 window.geometry('500x400')
-window.title('★★★看你擲筊有沒有好厲害★★★')
+window.title('看你擲筊有沒有好厲害')
 
 #變數
 var_listbox = tk.StringVar()
